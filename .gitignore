@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE / Editor
+.idea/
+*.iml
+*.xml
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / Large files
+*.csv
+*.xlsx
+*.h5
+*.pth
+*.pkl
+
+# Logs / output
+*.log
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Custom directories
+Fintech_school_T-Bank/
+
+# Other
+*.ipynb
