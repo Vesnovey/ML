@@ -25,6 +25,7 @@ __pycache__/
 *.h5
 *.pth
 *.pkl
+*.gzip
 
 # Logs / output
 *.log
